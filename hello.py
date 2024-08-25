@@ -1,4 +1,1 @@
-FSFdgdfgdhfg
-
-
-y556767678
+print("Hello")
